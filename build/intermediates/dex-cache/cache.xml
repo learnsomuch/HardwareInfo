@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sankar/.android/build-cache/a2ff367acb17ac440f8041d1cf07ad9218c8dfce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/sankar/Documents/experiement/HardwareInfo/app/build/intermediates/pre-dexed/debug/classes_f1fd24a163702b2d5aa6440e8e2c8e66f8ef2976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sankar/.android/build-cache/82db558492a4f4ad32b408a1456b8f3e76c01ec3/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/sankar/Documents/experiement/HardwareInfo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3b6ead21d9305a561d8e82c27e812e4fe9c2c153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sankar/.android/build-cache/595341b5d227f130e3ad9748dac2f1c238ac9d68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/sankar/Documents/experiement/HardwareInfo/app/build/intermediates/pre-dexed/debug/classes_efdbe6e4ea69aa49d7e46ad56dfac42e7fa45bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sankar/.android/build-cache/2e4de1a194cfd0387256f4a394de7e13c394e676/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/sankar/Documents/experiement/HardwareInfo/app/build/intermediates/pre-dexed/debug/classes_2fab3b77c2f6b260132075e2d7ac9ad6e0f44d72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sankar/.android/build-cache/0ace6f6c795df06966870bafcce44e9a88068b0f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/sankar/Documents/experiement/HardwareInfo/app/build/intermediates/pre-dexed/debug/classes_8dd5de0ed367ad2d9013bf1825d52f564c357c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sankar/.android/build-cache/82db558492a4f4ad32b408a1456b8f3e76c01ec3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/sankar/Documents/experiement/HardwareInfo/app/build/intermediates/pre-dexed/debug/classes_8403fb33a59367d1fa9ff781c2e5c7f0ad4c9ca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sankar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/sankar/Documents/experiement/HardwareInfo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_58f32ea22fbd0c44fe8126c96036e9bbbe9f502e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sankar/.android/build-cache/910ee4cf14ac0abba64df04a370c80c8de3928de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/sankar/Documents/experiement/HardwareInfo/app/build/intermediates/pre-dexed/debug/classes_b1e102107ef4206a4ac616390f9e05b9ce6401eb.jar" />
+    </item>
+
+</items>
